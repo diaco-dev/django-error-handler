@@ -1,0 +1,6 @@
+Django>5.0,<5.2
+dotenv
+psycopg2-binary
+django-currentuser==0.8.0
+djangorestframework==3.15.2
+drf-standardized-errors==0.14.1
